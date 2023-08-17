@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "314372425289",
+    "project_id": "useraddressregistration",
+    "storage_bucket": "useraddressregistration.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314372425289:android:affcae678083f199012198",
+        "android_client_info": {
+          "package_name": "com.useraddressregistration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314372425289-mv2jbukm1k8bscdmelv3fncnqsh863vf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzxaQDIUq6-EgaNhh4UwFnJ48SAV1GjjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314372425289-mv2jbukm1k8bscdmelv3fncnqsh863vf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
